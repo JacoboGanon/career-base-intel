@@ -452,7 +452,7 @@ footer {
 
   .timeline-item .marker,
   .timeline-item:nth-child(even) .marker {
-    left: 20px;
+    left: -30px;
     right: auto;
   }
 }
@@ -498,7 +498,7 @@ footer {
   }
   .timeline-item .marker,
   .timeline-item:nth-child(even) .marker {
-    left: 14px;
+    left: -30px;
   }
 }
 
